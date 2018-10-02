@@ -25,6 +25,7 @@
     border-bottom: 1px solid #fff;
 }
 .links .logo img{
+    float: left;
     height: 56px;
     width: 56px;
 }
